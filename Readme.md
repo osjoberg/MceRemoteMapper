@@ -5,5 +5,5 @@ A tool to re-map buttons on Media Center compatible remotes.
 
 Since I no longer own such a remote I do not actively maintain this code anymore.
 
-If you want to download the latest version, click [here](releases/download/0.1.0/MceRemoteMapper.exe)
+If you want to download the latest version, click [here](https://github.com/osjoberg/MceRemoteMapper/releases/download/0.1.0/MceRemoteMapper.exe).
 
